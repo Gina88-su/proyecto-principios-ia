@@ -1,1 +1,0 @@
-"""Búsqueda en rejilla para el Caso B: el juego del explorador."""
