@@ -1,0 +1,5 @@
+Base AIMA-Python 4.0.0, sin modificaciones.
+https://github.com/aimacode/aima-python
+Commit 49ebbc316192e84489f8bcb061e24b69150598fc
+Licencia MIT (LICENSE.txt). Solo entran __init__.py, search.py y utils.py,
+que son los módulos que usa el caso: Problem, Node y las búsquedas.
